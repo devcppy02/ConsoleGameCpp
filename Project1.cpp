@@ -15,7 +15,6 @@ void main()
 
 	int rnd, n;
 	rnd = grn(1, 100);
-	std::cout << rnd;
 	while (1) {
 		std::cout << "Введите предпологаемое число: ";
 		std::cin >> n;
